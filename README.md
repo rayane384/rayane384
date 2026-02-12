@@ -1,4 +1,5 @@
-## Greetings.<img width="200" height="171" alt="image" src="https://github.com/user-attachments/assets/5ebda40b-e2b5-463e-b1da-ff0fbc77376d" />
+## Greetings.
+![sonicx-hi](https://github.com/user-attachments/assets/e1b5add0-821e-4a9a-a631-b0470dc36fdb)
 
 
 <!--
