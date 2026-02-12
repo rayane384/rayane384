@@ -1,5 +1,6 @@
 ## Greetings.
-![sonicx-hi](https://github.com/user-attachments/assets/e1b5add0-821e-4a9a-a631-b0470dc36fdb)
+
+<img alt="Sonic is (or at least should be) welcoming you" src="https://github.com/user-attachments/assets/e1b5add0-821e-4a9a-a631-b0470dc36fdb" align="center">
 
 
 <!--
