@@ -1,6 +1,6 @@
 ## Greetings.
 
-![Sonic is (or at least should be) welcoming you](rayane384/rayane384/sonicx-hi.gif)
+![Sonic is (or at least should be) welcoming you](sonicx-hi.gif)
 
 
 <!--
