@@ -1,6 +1,6 @@
 ## Greetings.
 
-<img alt="Sonic is (or at least should be) welcoming you" src="rayane384/sonicx-hi.gif" align="center">
+![Sonic is (or at least should be) welcoming you](rayane384/sonicx-hi.gif)
 
 
 <!--
